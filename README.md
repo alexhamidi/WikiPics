@@ -1,41 +1,40 @@
 # WikiPics
 ### Selection of my favorite wikipedia images
-
-https://en.wikipedia.org/wiki/File:Hornviper_Cerastes_cerastes.jpg
-https://en.wikipedia.org/wiki/File:Ngc5866_hst_big.png
-https://en.wikipedia.org/wiki/File:Antennae_galaxies_xl.jpg
-https://en.wikipedia.org/wiki/File:Johan_Zoffany_-_Tribuna_of_the_Uffizi_-_Google_Art_Project.jpg
-https://en.wikipedia.org/wiki/File:Bee_Collecting_Pollen_2004-08-14.jpg
-https://en.wikipedia.org/wiki/File:Elephant_Trunk.png
-https://en.wikipedia.org/wiki/File:Squid_komodo.jpg
-https://en.wikipedia.org/wiki/File:Rembrandt_Christ_in_the_Storm_on_the_Lake_of_Galilee.jpg
-https://en.wikipedia.org/wiki/File:Puerto_de_Acapulco_Boot_1628.png
-https://en.wikipedia.org/wiki/File:STS-116_spacewalk_1.jpg
-https://en.wikipedia.org/wiki/File:M81.jpg
-https://en.wikipedia.org/wiki/File:New_York_Public_Library_1908c.jpg
-https://en.wikipedia.org/wiki/File:Leadenhall_Market_In_London_-_Feb_2006_rotated.jpg
-https://en.wikipedia.org/wiki/File:Doolhofzwam_(Daedalea_quercina)_30-11-2022._(d.j.b).jpg
-https://en.wikipedia.org/wiki/File:Watsonandtheshark-original.jpg
-https://en.wikipedia.org/wiki/File:Meat_seller_in_Kabul.jpg
-https://en.wikipedia.org/wiki/File:Phidippus_audax_male.jpg
-https://en.wikipedia.org/wiki/File:Poster_for_Quo_Vadis_(1913_silent_film).jpg
-https://en.wikipedia.org/wiki/File:Basilica_dei_Santi_Giovanni_e_Paolo_al_Celio_-_Interior.jpg
-https://en.wikipedia.org/wiki/File:Silver_crystal.jpg
-https://commons.wikimedia.org/wiki/File:ISS053-E-153654_-_View_of_Earth.jpg
-https://en.wikipedia.org/wiki/Wikipedia:Featured_pictures
-https://en.wikipedia.org/wiki/File:Gruppo_del_Sella.jpg
-https://en.wikipedia.org/wiki/File:Barcelona_bombing_(1938).jpg
-https://en.wikipedia.org/wiki/File:Salvador_Dali_A_(Dali_Atomicus)_09633u.jpg
-https://en.wikipedia.org/wiki/File:A_Boyar_Wedding_Feast_(Konstantin_Makovsky,_1883)_Google_Cultural_Institute.jpg
-https://en.wikipedia.org/wiki/File:Gustave_Dor%C3%A9_-_Miguel_de_Cervantes_-_Don_Quixote_-_Part_1_-_Chapter_1_-_Plate_1_%22A_world_of_disorderly_notions,_picked_out_of_his_books,_crowded_into_his_imagination%22.jpg
-https://en.wikipedia.org/wiki/File:Himalayas.jpg
-https://en.wikipedia.org/wiki/File:Frederic_Edwin_Church_-_Aurora_Borealis_-_Google_Art_Project.jpg
-https://en.wikipedia.org/wiki/File:Lanzarote_5_Luc_Viatour.jpg
-https://en.wikipedia.org/wiki/File:Mandel_zoom_10_satellite_seehorse_valley.jpg
-https://en.wikipedia.org/wiki/File:Chicago_world%27s_fair,_a_century_of_progress,_expo_poster,_1933,_2.jpg
-https://en.wikipedia.org/wiki/File:St_Augustine%27s_Church,_Kilburn_Interior_2,_London,_UK_-_Diliff.jpg
-https://en.wikipedia.org/wiki/File:Bi-crystal.jpg
-https://en.wikipedia.org/wiki/File:St._Peter_and_St._Paul%27s_Church_3,_Vilnius,_Lithuania_-_Diliff.jpg
-https://en.wikipedia.org/wiki/File:Ogata_Gekko_-_Ryu_sho_ten_edit.jpg
-https://en.wikipedia.org/wiki/File:Windsor_Castle_Upper_Ward_Quadrangle_Corrected_2-_Nov_2006.jpg
-https://cs50.harvard.edu/web/2020/projects/1/wiki/
+- https://en.wikipedia.org/wiki/File:Hornviper_Cerastes_cerastes.jpg
+- https://en.wikipedia.org/wiki/File:Ngc5866_hst_big.png
+- https://en.wikipedia.org/wiki/File:Antennae_galaxies_xl.jpg
+- https://en.wikipedia.org/wiki/File:Johan_Zoffany_-_Tribuna_of_the_Uffizi_-_Google_Art_Project.jpg
+- https://en.wikipedia.org/wiki/File:Bee_Collecting_Pollen_2004-08-14.jpg
+- https://en.wikipedia.org/wiki/File:Elephant_Trunk.png
+- https://en.wikipedia.org/wiki/File:Squid_komodo.jpg
+- https://en.wikipedia.org/wiki/File:Rembrandt_Christ_in_the_Storm_on_the_Lake_of_Galilee.jpg
+- https://en.wikipedia.org/wiki/File:Puerto_de_Acapulco_Boot_1628.png
+- https://en.wikipedia.org/wiki/File:STS-116_spacewalk_1.jpg
+- https://en.wikipedia.org/wiki/File:M81.jpg
+- https://en.wikipedia.org/wiki/File:New_York_Public_Library_1908c.jpg
+- https://en.wikipedia.org/wiki/File:Leadenhall_Market_In_London_-_Feb_2006_rotated.jpg
+- https://en.wikipedia.org/wiki/File:Doolhofzwam_(Daedalea_quercina)_30-11-2022._(d.j.b).jpg
+- https://en.wikipedia.org/wiki/File:Watsonandtheshark-original.jpg
+- https://en.wikipedia.org/wiki/File:Meat_seller_in_Kabul.jpg
+- https://en.wikipedia.org/wiki/File:Phidippus_audax_male.jpg
+- https://en.wikipedia.org/wiki/File:Poster_for_Quo_Vadis_(1913_silent_film).jpg
+- https://en.wikipedia.org/wiki/File:Basilica_dei_Santi_Giovanni_e_Paolo_al_Celio_-_Interior.jpg
+- https://en.wikipedia.org/wiki/File:Silver_crystal.jpg
+- https://commons.wikimedia.org/wiki/File:ISS053-E-153654_-_View_of_Earth.jpg
+- https://en.wikipedia.org/wiki/Wikipedia:Featured_pictures
+- https://en.wikipedia.org/wiki/File:Gruppo_del_Sella.jpg
+- https://en.wikipedia.org/wiki/File:Barcelona_bombing_(1938).jpg
+- https://en.wikipedia.org/wiki/File:Salvador_Dali_A_(Dali_Atomicus)_09633u.jpg
+- https://en.wikipedia.org/wiki/File:A_Boyar_Wedding_Feast_(Konstantin_Makovsky,_1883)_Google_Cultural_Institute.jpg
+- https://en.wikipedia.org/wiki/File:Gustave_Dor%C3%A9_-_Miguel_de_Cervantes_-_Don_Quixote_-_Part_1_-_Chapter_1_-_Plate_1_%22A_world_of_disorderly_notions,_picked_out_of_his_books,_crowded_into_his_imagination%22.jpg
+- https://en.wikipedia.org/wiki/File:Himalayas.jpg
+- https://en.wikipedia.org/wiki/File:Frederic_Edwin_Church_-_Aurora_Borealis_-_Google_Art_Project.jpg
+- https://en.wikipedia.org/wiki/File:Lanzarote_5_Luc_Viatour.jpg
+- https://en.wikipedia.org/wiki/File:Mandel_zoom_10_satellite_seehorse_valley.jpg
+- https://en.wikipedia.org/wiki/File:Chicago_world%27s_fair,_a_century_of_progress,_expo_poster,_1933,_2.jpg
+- https://en.wikipedia.org/wiki/File:St_Augustine%27s_Church,_Kilburn_Interior_2,_London,_UK_-_Diliff.jpg
+- https://en.wikipedia.org/wiki/File:Bi-crystal.jpg
+- https://en.wikipedia.org/wiki/File:St._Peter_and_St._Paul%27s_Church_3,_Vilnius,_Lithuania_-_Diliff.jpg
+- https://en.wikipedia.org/wiki/File:Ogata_Gekko_-_Ryu_sho_ten_edit.jpg
+- https://en.wikipedia.org/wiki/File:Windsor_Castle_Upper_Ward_Quadrangle_Corrected_2-_Nov_2006.jpg
+- https://cs50.harvard.edu/web/2020/projects/1/wiki/
