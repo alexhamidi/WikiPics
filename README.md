@@ -37,4 +37,3 @@
 - https://en.wikipedia.org/wiki/File:St._Peter_and_St._Paul%27s_Church_3,_Vilnius,_Lithuania_-_Diliff.jpg
 - https://en.wikipedia.org/wiki/File:Ogata_Gekko_-_Ryu_sho_ten_edit.jpg
 - https://en.wikipedia.org/wiki/File:Windsor_Castle_Upper_Ward_Quadrangle_Corrected_2-_Nov_2006.jpg
-- https://cs50.harvard.edu/web/2020/projects/1/wiki/
