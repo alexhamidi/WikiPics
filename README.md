@@ -37,3 +37,10 @@
 - https://en.wikipedia.org/wiki/File:St._Peter_and_St._Paul%27s_Church_3,_Vilnius,_Lithuania_-_Diliff.jpg
 - https://en.wikipedia.org/wiki/File:Ogata_Gekko_-_Ryu_sho_ten_edit.jpg
 - https://en.wikipedia.org/wiki/File:Windsor_Castle_Upper_Ward_Quadrangle_Corrected_2-_Nov_2006.jpg
+- https://en.wikipedia.org/wiki/File:BergenHordalandNorwayVagen.jpg
+- https://en.wikipedia.org/wiki/File:Iglesia_de_Nuestra_Se%C3%B1ora_de_La_Blanca,_Cardej%C3%B3n,_Espa%C3%B1a,_2012-09-01,_DD_02.JPG
+- https://en.wikipedia.org/wiki/File:Solar_eclipse_1999_4.jpg
+- https://en.wikipedia.org/wiki/File:Gumdrop_Meets_Spider_-_GPN-2000-001100.jpg
+- https://en.wikipedia.org/wiki/File:003_Wild_Alpine_Ibex_Sunset_Creux_du_Van_Mont_Racine_Photo_by_Giles_Laurent.jpg
+- https://en.wikipedia.org/wiki/File:Simmons-Hermia_and_Lysander._A_Midsummer_Night%27s_Dream.jpg
+- https://en.wikipedia.org/wiki/File:The_Cloisters_at_Gloucester_Cathedral.jpg
